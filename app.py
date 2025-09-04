@@ -117,6 +117,7 @@ def inject_css():
                 color: #000000 !important;
                 box-shadow: 0 0 0 5px rgba(251, 191, 36, 0.4);
                 transform: scale(1.05);
+                text-decoration: none;
             }}
             .link-button:disabled {{
                 opacity: 0.5;
