@@ -147,7 +147,7 @@ inject_css()
 PROJECTS = [
     {
         "id": "sentiment-analysis",
-        "title": "💬 IMDb Review Sentiment Analyzer",
+        "title": "💬 IMDb Sentiment Analyzer",
         "description": "A Streamlit web app for sentiment analysis on IMDb reviews using Logistic Regression and Naive Bayes models.",
         "topics": ["TF‑IDF", "LogReg", "Keras", "scikit-learn", "naive-bayes"],
         "live": "https://sentimentapp77.streamlit.app/",
