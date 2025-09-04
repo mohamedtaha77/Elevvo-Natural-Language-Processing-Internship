@@ -109,6 +109,7 @@ def inject_css():
                 background: #fbbf24;
                 color: #000000 !important;
                 transition: all 0.25s ease, transform 0.3s ease;
+                text-decoration: none;
             }}
             .link-button:hover {{
                 background: #f59e0b;
